@@ -5,6 +5,10 @@ Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired them
 
 [logo]: https://github.com/Star-Wing/Aurelia-Retro-Inspired-Theme/blob/main/Images/theme.png?raw=true "Aurelia inspired theme for Windows Terminal"
 
+![alt text][logo2]
+
+[logo2]: https://github.com/Star-Wing/Aurelia-Retro-Inspired-Theme/blob/main/Images/theme2.png?raw=true "Aurelia inspired theme for Windows Terminal"
+
 ## Installation
 
 1. Open your Windows Terminal "LocalState" folder
@@ -22,5 +26,5 @@ Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired them
   b. Add the Aurelia theme profile from here to profile section in your local settings.json
   
   
-  ## Credit
+  ## Credits
   [Aurelia Retro - a Windows Terminal theme](https://github.com/mobilemancer/windows-terminal-aurelia)
