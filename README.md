@@ -9,6 +9,10 @@ Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired them
 
 [logo2]: https://github.com/Star-Wing/Aurelia-Retro-Inspired-Theme/blob/main/Images/theme2.png?raw=true "Aurelia inspired theme for Windows Terminal"
 
+![alt text][logo3]
+
+[logo3]: https://github.com/Star-Wing/Aurelia-Retro-Inspired-Theme/blob/main/Images/theme3.png?raw=true "Multi tab Windows Terminal"
+
 ## Installation
 
 1. Open your Windows Terminal "LocalState" folder
