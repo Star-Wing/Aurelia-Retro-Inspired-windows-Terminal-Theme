@@ -1,0 +1,51 @@
+// To view the default settings, hold "alt" while clicking on the "Settings" button.
+// For documentation on these settings, see: https://aka.ms/terminal-documentation
+{
+    "profiles": [
+		{
+                "acrylicOpacity": 0.85000002384185791,
+                "backgroundImage": "ms-appdata:///local/au-os-L.png",
+                "backgroundImageAlignment": "bottomRight",
+                "backgroundImageStretchMode": "none",
+                "colorScheme": "Aurelia",
+                "commandline": "powershell.exe",
+                "experimental.retroTerminalEffect": false,
+                "font": 
+                {
+                    "face": "Cascadia Code"
+                },
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "startingDirectory": "c:/",
+                "tabTitle": "PowerShell",
+                "useAcrylic": false
+            },
+    ],
+    // Add custom color schemes to this array
+    "schemes": [
+        {
+            "background": "#1A1A1A",
+            "black": "#000000",
+            "blue": "#579BD5",
+            "brightBlack": "#797979",
+            "brightBlue": "#9CDCFE",
+            "brightCyan": "#2BC4E2",
+            "brightGreen": "#1AD69C",
+            "brightPurple": "#975EAB",
+            "brightRed": "#EF6487",
+            "brightWhite": "#EAEAEA",
+            "brightYellow": "#E9AD95",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#00B6D6",
+            "foreground": "#9CDCFE",
+            "green": "#4EC9B0",
+            "name": "Aurelia",
+            "purple": "#714896",
+            "red": "#F72B91",
+            "selectionBackground": "#FFFFFF",
+            "white": "#EAEAEA",
+            "yellow": "#CE9178"
+        }
+    ]
+}
