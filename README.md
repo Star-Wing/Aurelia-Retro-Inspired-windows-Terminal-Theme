@@ -1,4 +1,4 @@
-# Aurelia-Retro-Inspired-Theme
+# Aurelia-Retro-Inspired-Windows-Terminal-Theme
 Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired theme
 
 ![alt text][logo]
