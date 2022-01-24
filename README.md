@@ -1,5 +1,6 @@
 # Aurelia-Retro-Inspired-Windows-Terminal-Theme
-Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired theme
+Windows Terminal theme inspired by mobilemancer's original Aurelia Inspired theme.
+The original had too much pink, so I changed some palettes to blue and green, which is easier to read.
 
 ![alt text][logo]
 
